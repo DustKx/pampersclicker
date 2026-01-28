@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IbigClicker/IbigClicker.vcxproj" Id="c6c70ec4-5fd1-4a4c-bdf1-0743f613f105" />
+</Solution>
