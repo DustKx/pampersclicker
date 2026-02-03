@@ -1,0 +1,4 @@
+delay_between_clicks=10
+delay_before_key=10
+key_hold=500000
+loop_delay=1000
